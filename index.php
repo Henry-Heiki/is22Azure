@@ -12,25 +12,25 @@
 
     <nav>
         <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#">Kodu</a></li>
+            <li><a href="#">info</a></li>
+            <li><a href="#">teenused</a></li>
+            <li><a href="#">kontakt</a></li>
         </ul>
     </nav>
 
     <main>
         <section>
-            <h2>About Us</h2>
-            <p>This is a simple test page to demonstrate HTML and CSS.</p>
+            <h2>Info</h2>
+            <p>See on katse!!!</p>
         </section>
 
         <section>
-            <h2>Services</h2>
+            <h2>Teenused</h2>
             <ul>
-                <li>Web Design</li>
-                <li>Graphic Design</li>
-                <li>SEO Optimization</li>
+                <li>Katse</li>
+                <li>Katse</li>
+                <li>Katse</li>
             </ul>
         </section>
     </main>
